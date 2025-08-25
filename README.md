@@ -32,3 +32,4 @@ This is a Python-based smart student evaluation system developed as **Assignment
 ## Technologies Used
 
 - Python 3
+## Code is here: https://github.com/Muntazer72/smart-student-evaluation-system
